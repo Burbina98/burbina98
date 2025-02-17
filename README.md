@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! 👋
+
+My name is Bryan, and I am an aspiring software engineer whos is interested in application and web development!
 
 <!--
 **Burbina98/burbina98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
